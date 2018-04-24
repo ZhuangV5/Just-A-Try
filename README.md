@@ -1,2 +1,2 @@
-# Just-A-Try
+# Just-A-Tr
 Just a try
